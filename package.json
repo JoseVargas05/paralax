@@ -2,6 +2,8 @@
   "name": "react-scroll-parallax-hero-banner",
   "version": "1.0.0",
   "description": "",
+  "private": true,
+  "homepage": "https://programandole.com/demo/eddymugre/",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
