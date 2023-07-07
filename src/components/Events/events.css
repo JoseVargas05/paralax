@@ -1,0 +1,16 @@
+.events-container{
+    width: 100%;
+    pointer-events: all;
+    z-index: 11;
+}
+
+.event-01{
+    max-width: 400px;
+    width: 100%;
+}
+
+.headline {
+    font-weight: 100;
+    font-size: 3vw;
+    color: #907362;
+  }

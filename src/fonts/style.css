@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Aestetico Formal';
+    src: local('Aestetico Formal Black'), local('Aestetico-Formal-Black'),
+        url('AesteticoFormal-Black.woff2') format('woff2'),
+        url('AesteticoFormal-Black.woff') format('woff'),
+        url('AesteticoFormal-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }

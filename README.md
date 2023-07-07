@@ -1,2 +1,2 @@
 # paralax
-Created with CodeSandbox
+Created by Programandole - José Vargas
